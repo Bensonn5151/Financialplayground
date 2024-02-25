@@ -1,4 +1,4 @@
-Web scraping and data science project focused on analyzing financial data from the cryptocurrency market sector
+A web scraping and data science project focused on analyzing financial data from the cryptocurrency market sector, the aim is to build a dataset, adhere to best practices in data processing, and creating a test model to identify top tier crypto assets based on market capitalization
 
 Web Scraping: I collected financial data from Yahoo Finance, a common and reliable source for financial data.
 
